@@ -46,17 +46,6 @@ To work, you need to install **TOML**:
 pip install toml
 ```
 
----
-
-### 🚀 Installation
-```bash
-git clone https://github.com/alex-sh-7/autoQtProjBuilder-auto-build-your-qt-projects.git
-cd autoQtProjBuilder-auto-build-your-qt-projects
-pip install -r requirements.txt
-```
-
----
-
 ## RU:
 
 ### 📝 Описание
@@ -99,13 +88,4 @@ python build-start.py
 Для работы нужно установить **TOML**:
 ```bash
 pip install toml
-```
-
----
-
-### 🚀 Установка
-```bash
-git clone https://github.com/alex-sh-7/autoQtProjBuilder-auto-build-your-qt-projects.git
-cd autoQtProjBuilder-auto-build-your-qt-projects
-pip install -r requirements.txt
 ```
