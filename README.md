@@ -1,11 +1,70 @@
 # Automatic Qt Project Builder
 
-## 📝 Описание
+---
+
+## ENG:
+
+### 📝 Description
+**Automatic Qt Project Builder** is a mini console application written in **Python**, designed for simple, convenient, and fast compilation of **Qt** projects without unnecessary interaction with arguments, flags, and the console.  
+
+---
+
+### ⚙️ Features
+- ⚡ Fast project compilation in a few clicks.
+- 🤖 Automation of the build process while maintaining the flexibility of manual settings.
+- 📦 Management of version types for different projects:
+- `release`  
+  - `beta`  
+  - `debug`  
+- 🔧 Automatic or manual selection of the path to Qt and the compiler.  
+- 🛠️ If Qt was compiled from source code and the application does not find it automatically, simply specify the path to the Qt folder and everything will work.  
+- 🌍 The interface is available in 5 languages:  
+  - English  
+  - Russian  
+  - Ukrainian  
+  - German  
+  - French
+
+---
+
+### ✨ Key advantages
+- Minimizes routine interaction with the console.  
+- Easily integrates into existing projects.  
+- Multilingual interface for international use.  
+- Suitable for both beginners and experienced developers.  
+
+---
+
+### ▶️ Usage
+To use, add the file to your project root and run it in the console using the command:
+```bash
+python build-start.py
+```
+
+To work, you need to install **TOML**:
+```bash
+pip install toml
+```
+
+---
+
+### 🚀 Installation
+```bash
+git clone https://github.com/alex-sh-7/autoQtProjBuilder-auto-build-your-qt-projects.git
+cd autoQtProjBuilder-auto-build-your-qt-projects
+pip install -r requirements.txt
+```
+
+---
+
+## RU:
+
+### 📝 Описание
 **Automatic Qt Project Builder** — мини-консольное приложение, написанное на **Python**, предназначенное для простой, удобной и быстрой компиляции проектов **Qt** без лишнего взаимодействия с аргументами, флагами и консолью.  
 
 ---
 
-## ⚙️ Возможности
+### ⚙️ Возможности
 - ⚡ Быстрая компиляция проекта в несколько кликов.  
 - 🤖 Автоматизация процесса сборки с сохранением гибкости ручных настроек.  
 - 📦 Управление типами версий для разных проектов:  
@@ -23,7 +82,7 @@
 
 ---
 
-## ✨ Ключевые преимущества
+### ✨ Ключевые преимущества
 - Минимизирует рутинное взаимодействие с консолью.  
 - Легко интегрируется в существующие проекты.  
 - Многоязычный интерфейс для международного использования.  
@@ -31,8 +90,22 @@
 
 ---
 
-## 🚀 Установка
+### ▶️ Использование
+Для использования добавьте файл в корень вашего проекта и запустите в консоли с помощью команды:
 ```bash
-git clone https://github.com/ваш-ник/automatic-qt-project-builder.git
-cd automatic-qt-project-builder
+python build-start.py
+```
+
+Для работы нужно установить **TOML**:
+```bash
+pip install toml
+```
+
+---
+
+### 🚀 Установка
+```bash
+git clone https://github.com/alex-sh-7/autoQtProjBuilder-auto-build-your-qt-projects.git
+cd autoQtProjBuilder-auto-build-your-qt-projects
 pip install -r requirements.txt
+```
