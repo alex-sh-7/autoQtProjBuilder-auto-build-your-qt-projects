@@ -2,6 +2,10 @@
 
 ---
 
+### Be sure to install Ninja.
+
+---
+
 ## ENG:
 
 ### 📝 Description
