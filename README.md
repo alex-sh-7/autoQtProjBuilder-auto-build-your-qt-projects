@@ -2,7 +2,7 @@
 
 ---
 
-### Be sure to install Ninja.
+## Be sure to install Ninja.
 
 ---
 
