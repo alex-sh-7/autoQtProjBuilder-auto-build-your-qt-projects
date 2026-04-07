@@ -42,7 +42,7 @@
 ### ▶️ Usage
 To use, add the file to your project root and run it in the console using the command:
 ```bash
-python build-start.py
+python auto_build_qt_projects.py
 ```
 
 To work, you need to install **TOML**:
@@ -86,7 +86,7 @@ pip install toml
 ### ▶️ Использование
 Для использования добавьте файл в корень вашего проекта и запустите в консоли с помощью команды:
 ```bash
-python build-start.py
+python auto_build_qt_projects.py
 ```
 
 Для работы нужно установить **TOML**:
