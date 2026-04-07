@@ -1,1 +1,1 @@
-python build-start.py
+python auto_build_qt_projects.py
